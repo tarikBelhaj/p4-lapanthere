@@ -775,7 +775,7 @@ h4 {
 }
 
 .tc-white {
-    color: #000000!important;
+    color: #ffffff!important;
 }
 
 .btn-atomic-tangerine {
@@ -994,6 +994,9 @@ h4 {
     .bloc-fill-screen .fill-bloc-bottom-edge {
         padding-left: 0;
         padding-right: 0;
+    }
+    .portfolio-thumb {
+        width: 100%;
     }
     .a-block {
         padding: 0 10px;
