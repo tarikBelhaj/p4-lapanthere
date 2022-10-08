@@ -822,7 +822,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("../img/image-de-presentation-1.webp");
+    background-image: url("../img/image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {
