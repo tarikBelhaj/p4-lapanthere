@@ -88,11 +88,13 @@
 			<div class="col-sm-6">
 				<form id="form_1" novalidate success-msg="Your message has been sent." fail-msg="Sorry it seems that our mail server is not responding, Sorry for the inconvenience!">
 					<div class="form-group">
-						<label for="name">Nom:</label>
-                        <input id="name" />
+						<label for="name">
+							Nom:
+							<input id="name" type="text"  required />
+						</label>
 					</div>
 					<div class="form-group">
-						<label for="Adresse email">
+						<label for="email">
 							Adresse email:
 							<input id="email" type="email"  required />
 						</label>
